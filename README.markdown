@@ -1,5 +1,5 @@
 # props - Property structure library for Erlang
-[![Build Status](https://travis-ci.org/rackerlabs/gen_batch.png)](https://travis-ci.org/rackerlabs/props)
+[![Build Status](https://travis-ci.org/rackerlabs/props.png)](https://travis-ci.org/rackerlabs/props)
 
 This is a library for manipulating JSON like structures, called props.
 
