@@ -1,5 +1,4 @@
 # props - Property structure library for Erlang
-[![Build Status](https://travis-ci.org/rackerlabs/props.png)](https://travis-ci.org/rackerlabs/props)
 
 This is a library for manipulating JSON like structures, called props.
 
@@ -8,7 +7,7 @@ This is a library for manipulating JSON like structures, called props.
 To include props in your project, add the following to your `deps`
 section in `rebar.config`:
 
-    {props, ".*", {git, "https://github.com/greyarea/props.git", "master"}}
+    {props, ".*", {git, "https://github.com/raxdcx/props.git", "master"}}
 
 ## Building
 
